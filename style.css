@@ -1,0 +1,783 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.top{
+    background-color: #D4111A;
+    margin-top: 20px;
+}
+
+.first{
+    position: relative;
+    font-family: "Inter";
+    color: white;
+    font-size: 13px;
+    left: 120px;
+    padding-top: 15px;
+    padding-bottom: 17px;
+}
+
+.globe{
+    position: relative;
+    top: -47px;
+    padding: 0;
+    left: 95px;
+    color: red;
+}
+
+.follow{
+    position: relative;
+    /* color: white; */
+    /* font-family: "Inter"; */
+    font-size: 13px;
+    top: -48px;
+    left: 1310px;
+}
+
+.title{
+    position: relative;
+    font-family: "Inter";
+    color: #D4111A;
+    font-size: 32px;
+    left: 100px;
+    top: -55px;
+}
+
+.home{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -128px;
+    left: 390px;
+}
+
+.abouts{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -221px;
+    left: 525px;
+    
+}
+
+.services{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -260px;
+    left: 650px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.pages{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -299px;
+    left: 800px;
+}
+
+.shop{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -338px;
+    left: 933px;
+}
+
+.blog{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -377px;
+    left: 1050px;
+}
+
+.contact{
+    position: relative;
+    font-weight: 700px;
+    font-family: "Inter";
+    font-size: 18px;
+    top: -416px;
+    left: 1160px;
+}
+
+.arrow1{
+    position: relative;
+    top: -171px;
+    left: 439px;
+}
+
+.arrow2{
+    position: relative;
+    top: -171px;
+    left: 537px;
+}
+
+.arrow3{
+    position: relative;
+    top: -171px;
+    left: 648px;
+}
+
+.arrow4{
+    position: relative;
+    top: -171px;
+    left: 740px;
+}
+
+.arrow5{
+    position: relative;
+    top: -171px;
+    left: 828px;
+}
+
+.arrow6{
+    position: relative;
+    top: -171px;
+    left: 905px;
+}
+
+.arrow7{
+    position: relative;
+    top: -171px;
+    left: 1007px;
+}
+
+.cart{
+    position: relative;
+    top: -473px;
+    left: 1340px;
+}
+
+.search{
+    position: relative;
+    top: -473px;
+    left: 1353px;
+}
+
+.menu{
+    position: relative;
+    top: -473px;
+    left: 1367px;
+}
+
+.pic1{
+    position: relative;
+    top: -450px;
+    width: 1570px;
+}
+
+.bg1{
+    position: relative;
+    top: -1327px;
+    height: 873px;
+    width: 800px;
+}
+
+.journey{
+    position: relative;
+    font-family: "Inter";
+    font-size: 96px;
+    top: -2170px;
+    left: 125px;
+    color: white;
+}
+
+.fast{
+    position: relative;
+    font-family: "Inter";
+    font-size: 36px;
+    top: -2250px;
+    left: 125px;
+    color: white;
+}
+
+.peso{
+    position: relative;
+    font-family: "Inter";
+    font-size: 64px;
+    color: #D4111A;
+    font-weight: 900px;
+    top: -2280px;
+    left: 125px;
+    font-style: black;
+}
+
+.month{
+    position: relative;
+    font-family: "Inter";
+    font-size: 24px;
+    color: white;
+    top: -2385px;
+    left: 315px;
+    font-style: black;
+}
+
+.txt{
+    background-color: #D4111A;
+    font-family: "Inter";
+    font-size: 20px;
+    color: white;
+    padding: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border: 0;
+    top: -2350px;
+    position: relative;
+    left: 125px;
+}
+
+.cervice{
+    position: relative;
+    color: #D4111A;
+    font-size: 20px;
+    font-family: "Inter";
+    text-align: center;
+    top: -2090px;
+}
+
+.enjoy{
+    position: relative;
+    font-size: 32px;
+    font-family: "Inter";
+    text-align: center;
+    top: -2100px;
+}
+
+.rec1{
+    position: relative;
+    top: -2100px;
+    left: 110px;
+}
+
+.rec2{
+    position: relative;
+    top: -2100px;
+    left: 100px;
+}
+
+.rec3{
+    position: relative;
+    top: -2100px;
+    left: 90px;
+}
+
+.rec4{
+    position: relative;
+    top: -2100px;
+    left: 80px;
+}
+
+.broadband{
+    position: relative;
+    top: -2350px;
+    right: 1250px;
+}
+
+.wifi{
+    position: relative;
+    top: -2470px;
+    left: 500px;
+}
+
+.satellite{
+    position: relative;
+    top: -2450px;
+    left: 745px;
+}
+
+.tv{
+    position: relative;
+    top: -2450px;
+    left: 995px;
+}
+
+.broadband2{
+    position: relative;
+    top: -2440px;
+    left: 160px;
+    font-size: 20px;
+    font-family: "Inter";
+}
+
+.wifi2{
+    position: relative;
+    top: -2484px;
+    left: 500px;
+    font-size: 20px;
+    font-family: "Inter";
+    color: white;
+}
+
+.satellite2{
+    position: relative;
+    top: -2528px;
+    left: 843px;
+    font-size: 20px;
+    font-family: "Inter";
+}
+
+.tv2{
+    position: relative;
+    top: -2572px;
+    left: 1190px;
+    font-size: 20px;
+    font-family: "Inter";
+}
+
+.broadband3{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -2550px;
+    left: 160px;
+}
+
+.wifi3{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -2618px;
+    left: 500px;
+    color: white;
+}
+
+.satellite3{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -2685px;
+    left: 845px;
+}
+
+.tv3{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -2755px;
+    left: 1190px;
+}
+
+.rec5{
+    position: relative;
+    top: -2520px;
+    left: 250px;
+}
+
+.img7{
+    position: relative;
+    top: -2560px;
+    right: 300px;
+    width: 500px;
+}
+
+.rec6{
+    position: relative;
+    top: -2940px;
+    right: 877px;
+}
+
+.img9{
+    position: relative;
+    top: -2470px;
+    right: 750px;
+}
+
+.num{
+    position: relative;
+    font-family: "Inter";
+    font-size: 24px;
+    top: -3157px;
+    color:#D4111A;
+    border: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    left: 306px;
+    border-radius: 10px;
+}
+
+.group30{
+    position: relative;
+    top: -3174px;
+    left: 281px;
+}
+
+.lol{
+    position: relative;
+    font-family: "Inter";
+    font-size: 64px;
+    top: -3225px;
+    left: 110px;
+    color: white;
+}
+
+.yrs{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -3280px;
+    left: 110px;
+    color: white;
+}
+
+.group32{
+    position: relative;
+    top: -3290px;
+    left: 108px;
+}
+
+.trust{
+    position: relative;
+    font-size: 15px;
+    font-family: "Inter";
+    top: -3328px;
+    left: 250px;
+    color: white;
+}
+
+.about{
+    position: relative;
+    font-size: 20px;
+    font-family: "Inter";
+    top: -3580px;
+    left: 810px;
+    color:#D4111A;
+}
+
+.provide{
+    position: relative;
+    font-size: 42px;
+    font-family: "Inter";
+    top: -3585px;
+    left: 810px;
+}
+
+.value{
+    position: relative;
+    font-size: 20px;
+    top: -3600px;
+    font-family: "Inter";
+    left: 810px;
+}
+
+.vector{
+    position: relative;
+    top: -3560px;
+    left: 814px;
+}
+
+.vector2{
+    position: relative;
+    top: -3560px;
+    left: 1100px;
+}
+
+.ultra{
+    position: relative;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 600;
+    top: -3575px;
+    left: 815px;
+}
+
+.fully{
+    position: relative;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 600;
+    top: -3628px;
+    left: 1167px;
+}
+
+.reception{
+    position: relative;
+    font-size: 20px;
+    font-family: "Inter";
+    top: -3640px;
+    left: 815px;
+    font-weight: 400;
+}
+
+.security{
+    position: relative;
+    font-size: 20px;
+    font-family: "Inter";
+    top: -3731px;
+    left: 1166px;
+    font-weight: 400;
+}
+
+.check1{
+    position: relative;
+    top: -3685px;
+    left: 820px;
+}
+
+.check2{
+    position: relative;
+    top: -3655px;
+    left: 790px;
+}
+
+.check3{
+    position: relative;
+    top: -3625px;
+    left: 760px;
+}
+
+.export{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Inter";
+    top: -3736px;
+    left: 850px;
+    line-height: 1.5;
+}
+
+.pec{
+    position: relative;
+    width: 56px;
+    top: -3738px;
+    left: 925px;
+}
+
+.pic2{
+    position: relative;
+    width: 76px;
+    top: -3728px;
+    left: 820px;
+}
+
+.pic3{
+    position: relative;
+    width: 56px;
+    top: -3740px;
+    left: 715px;
+}
+
+.pic4{
+    position: relative;
+    width: 56px;
+    top: -3740px;
+    left: 620px;
+}
+
+.our{
+    position: relative;
+    font-family: "Inter";
+    font-size: 20px;
+    top: -3800px;
+    left: 990px;
+}
+
+.rec13{
+    position: relative;
+    top: -3710px;
+    width: 1570px;
+
+}
+
+.choose{
+    position: relative;
+    font-size: 20px;
+    font-family: "Inter";
+    top: -4550px;
+    left: 90px;
+    color:#D4111A;
+}
+
+.usage{
+    position: relative;
+    font-size: 42px;
+    font-family: "Inter";
+    top: -4570px;
+    left: 89px;
+    font-weight: 700;
+}
+
+.babae{
+    position: relative;
+    top: -4805px;
+    left: 680px;
+}
+
+.butt2{
+    position: relative;
+    top: -5400px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Inter";
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    background-color: #D4111A;
+    right: 775px;
+}
+
+.butt3{
+    position: relative;
+    top: -5400px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Inter";
+    border: 0;
+    border-radius: 10px;
+    background-color: white;
+    right: 735px;
+}
+
+.butt4{
+    position: relative;
+    top: -5400px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Inter";
+    border: 0;
+    border-radius: 10px;
+    background-color: white;
+    right: 705px;
+}
+
+.butt5{
+    position: relative;
+    font-size: 75px;
+    font-family: "Inter";
+    font-weight: 400;
+    /* border: 2px; */
+    border-radius: 5px;
+    border-color: #D4111A;
+    top: -5350px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 110px;
+    left: 90px;
+    color: #D4111A;
+}
+
+.pesosign{
+    position: relative;
+    top: -5440px;
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 400;
+    left: 125px;
+    color: #6b6767;
+}
+
+.hays{
+    position: relative;
+    top: -5485px;
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 400;
+    left: 290px;
+    color: #6b6767;
+}
+
+.nyenye{
+    position: relative;
+    font-size: 75px;
+    font-family: "Inter";
+    font-weight: 400;
+    /* border: 2px; */
+    border-radius: 5px;
+    border-color: #D4111A;
+    top: -5665px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 110px;
+    left: 420px;
+}
+
+.pesosigns{
+    position: relative;
+    top: -5805px;
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 400;
+    left: 450px;
+    color: #6b6767;
+}
+
+.fee{
+    position: relative;
+    top: -5850px;
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 400;
+    left: 620px;
+    color: #6b6767;
+}
+
+.check4{
+    position: relative;
+    top: -5748px;
+    left: 99px;
+}
+
+.check5{
+    position: relative;
+    top: -5718px;
+    left: 69px;
+}
+
+.check6{
+    position: relative;
+    top: -5688px;
+    left: 39px;
+}
+
+.exports{
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Inter";
+    top: -5800px;
+    left: 130px;
+    line-height: 1.5;
+}
+
+.kokoy{
+    position: relative;
+    top: -5800px;
+    font-family: "Inter";
+    font-size: 38px;
+    left: 100px;
+    font-weight: 400;
+}
+
+.lastna{
+    position: relative;
+    top: -5725px;
+}
